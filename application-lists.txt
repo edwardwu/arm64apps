@@ -1,0 +1,4 @@
+istioctl
+https://github.com/istio/istio/releases/download/1.6.0-rc.2/istio-1.6.0-rc.2-linux-arm64.tar.gz
+
+
