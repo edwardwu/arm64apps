@@ -1,4 +1,6 @@
 istioctl
 https://github.com/istio/istio/releases/download/1.6.0-rc.2/istio-1.6.0-rc.2-linux-arm64.tar.gz
 
+sudo curl -L --fail https://github.com/AppTower/docker-compose/releases/download/1.25.5/run.sh -o /usr/local/bin/docker-compose
+
 
