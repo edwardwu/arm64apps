@@ -4,7 +4,7 @@ Simple overview of arm64app list
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+To list the useful applications which are available on arm64 cpu
 
 ## Getting Started
 
